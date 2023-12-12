@@ -1,8 +1,9 @@
 # Transverse-Wave-Using-Circle
 
 ### **Dibuat oleh:**
-### **Khansa Farras Callista - 1306621067**
-### **Salma Mardhiyah - 1306621061**
+### **1. Dhinar hidayath (1306621054)**
+### **2. Khansa Farras Callista - 1306621067**
+### **3. Salma Mardhiyah - 1306621061**
 
 -----
 
